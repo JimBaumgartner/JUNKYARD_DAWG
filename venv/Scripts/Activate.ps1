@@ -27,7 +27,7 @@ function global:deactivate ([switch]$NonDestructive) {
 
 deactivate -nondestructive
 
-$env:VIRTUAL_ENV="C:\Users\JimRB\OneDrive\Documents\Python Class\Workspaces\JUNKYARD_DAWG_APP\venv"
+$env:VIRTUAL_ENV="C:\Users\lugnu\Documents\Python Class\FlaskApps\JUNKYARD_DAWG\venv"
 
 if (! $env:VIRTUAL_ENV_DISABLE_PROMPT) {
     # Set the prompt to include the env name
